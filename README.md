@@ -92,20 +92,6 @@ A **MERN Stack** application designed to streamline the process of registering, 
    - Frontend: `http://localhost:3000`
    - Backend: `http://localhost:8001`
 
----
-
-## **Screenshots**
-
-1. **User Dashboard**:
-   *(Add a screenshot of the user dashboard here)*
-
-2. **Admin Panel**:
-   *(Add a screenshot of the admin panel here)*
-
-3. **Complaint Submission Form**:
-   *(Add a screenshot of the submission form here)*
-
----
 
 ## **Future Enhancements**
 
@@ -148,4 +134,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For queries or feedback, feel free to reach out:
 
 - **GitHub**: [dilli6576](https://github.com/dilli6576)
-- **Email**: *(Add your email here)*
+- **Email**: *ddilli064@gmail.com*
