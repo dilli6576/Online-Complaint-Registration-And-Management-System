@@ -121,13 +121,7 @@ A **MERN Stack** application designed to streamline the process of registering, 
    ```
 5. Submit a pull request.
 
----
-
-## **License**
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
+--
 
 ## **Contact**
 
